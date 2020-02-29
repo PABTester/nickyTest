@@ -5,6 +5,6 @@
   
   2、先执行tdxTest01.py脚本，把导出的收盘数据转换为csv文件，再执行tdsTestMacd01.py脚本，数据符合算法的个股；
 
-  3、tdxTestMacd脚本使用的pandas版本有要求，需要0.24.2版本；
+  3、tdxMacdTest脚本使用的pandas版本有要求，需要0.24.2版本；
   
   4、本脚本的算法仅供参考，盈亏自付，谢谢🙏
